@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+data/sec/indices/*
 data/sec/raw_filings/*
 data/sec/cleaned_filings/*
-
+data/sec/diffed_filings/*
